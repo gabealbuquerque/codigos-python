@@ -1,2 +1,2 @@
-# Olá, Mundo!
- Repositório criado com o intuito de **salvar** todos os códigos dos meus __*testes*__ da faculdade.
+# Projetos Pessoais
+ Seja bem-vindo(a) ao meu repositório! Toda semana estou comitando códigos de resolução de __*problemas*__ da faculdade e cursos de Python que realizo.
