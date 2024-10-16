@@ -1,2 +1,2 @@
-# Projetos Pessoais
- Seja bem-vindo(a) ao meu repositório! Toda semana estou comitando códigos de resolução de __*problemas*__ da faculdade e cursos de Python que realizo.
+# Códigos em Python
+ Este repositório foi criado com o intuito de colocar em prática os conhecimentos adquiridos da Linguagem de Programação __Python__ do *Curso em Vídeo* e da *Faculdade Impacta*.
