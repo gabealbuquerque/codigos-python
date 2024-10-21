@@ -5,5 +5,12 @@ def escreva(msg):
     print('~' * tam)
 
  # Programa Principal
-msg = input('Digite uma mensagem: ')
-escreva(msg)
+while True:
+    msg = input('Digite uma mensagem: ')
+    escreva(msg)
+    opc = input('Quer continuar? [S/N] ').upper()
+    if opc not in 'SN':
+        print('ERRO! Digite apenas S ou N.')
+    if opc == 'N':
+        break
+print('<< VOLTE SEMPRE! >>')
