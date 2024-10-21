@@ -5,6 +5,5 @@ def escreva(msg):
     print('~' * tam)
 
  # Programa Principal
-escreva('Gustavo Guanabara')
-escreva('Curso de Python no YouTube')
-escreva('CeV')
+msg = input('Digite uma mensagem: ')
+escreva(msg)
