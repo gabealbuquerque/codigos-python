@@ -1,4 +1,4 @@
-def escreva(msg):
+def escreva(msg):  
     tam = len(msg) + 4
     print('~' * tam)
     print(f'  {msg}')
@@ -11,6 +11,7 @@ while True:
     opc = input('Quer continuar? [S/N] ').upper()
     if opc not in 'SN':
         print('ERRO! Digite apenas S ou N.')
+        opc = input('Quer continuar? [S/N] ').upper()
     if opc == 'N':
         break
 print('<< VOLTE SEMPRE! >>')
