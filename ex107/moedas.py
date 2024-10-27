@@ -1,6 +1,6 @@
 def aumentar(preco = 0, taxa = 0, formato=False):
     res = preco + (preco * taxa/100)
-    return res if formato is False else moeda(preco)
+    return res if formato is False else moeda(res)
 
 def diminuir(preco = 0, taxa = 0, formato=False):
     res = preco - (preco * taxa/100)
